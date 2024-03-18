@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imlucky78
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Advanced Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via bdhavad78@gmail.com
 - 😄 Pronouns: lucky
 - ⚡ Fun fact: code-decode
